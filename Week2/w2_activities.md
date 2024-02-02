@@ -1,4 +1,4 @@
-#	[Coding practice - “Welcome to PAL!”] (https://github.com/Sh-i-aw/PAL-W24/blob/main/Week2/w2_1_printf_code.cpp)
+#	[Coding practice - “Welcome to PAL!”](./w2_1_printf_code.cpp)
 We reviewed important parts of the C program 
 -	Main()
 -	return value
