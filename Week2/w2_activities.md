@@ -22,7 +22,7 @@ We used Notepad as an editor to write code, then changed extension, added the so
   - whitespace increase the file size, thus should be avoided - (F)
   - the phrase “Hello” can be contained in char greet[5] - (F)
 
-#	[Coding exercise - Write a program that counts down from 10 to 1] (https://github.com/Sh-i-aw/PAL-W24/blob/main/Week2/w2_2_countDown.cpp)
+#	[Coding exercise - Write a program that counts down from 10 to 1](./w2_2_countDown.cpp)
 The program printed 10 to 1, then “we are done!” to the console.
 - We used
   - an integer variable to store the printed number
