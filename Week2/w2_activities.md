@@ -3,6 +3,7 @@ We reviewed important parts of the C program
 -	Main()
 -	return value
 -	external library with #include
+
 *source code files are just text files!* 
 Any text editor would work! 
 We used Notepad as an editor to write code, then changed extension, added the source file to Visual Studio project. 
